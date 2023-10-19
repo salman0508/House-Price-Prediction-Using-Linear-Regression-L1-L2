@@ -1,1 +1,2 @@
 # House-Price-Prediction-Using-Linear-Regression-L1-L2
+House price prediction using linear regression is a valuable tool for real estate professionals, homeowners, and prospective buyers. By leveraging a linear regression model, it's possible to make data-driven predictions that can assist in pricing decisions and negotiations. It's important to continue monitoring and retraining the model as new data becomes available to maintain its accuracy and relevance.
